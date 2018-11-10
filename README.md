@@ -1,18 +1,12 @@
-<html lang="en">
-<head>
-
-</head>
+<!DOCTYPE html>
+<html>
 <body>
 
-<div class="container">
-  <div class="jumbotron">
-    <h1>Daphne Adriana Huapaya Montes</h1>
-    <p>Tengo 18 años , soy estudiante de ingeniería civil de la Universidad de Ingeniería y Tecnología. Mis pasatiempos son leer , dibujar y pintar, pero suelo hacer estos al aire libre porque es mucho mas relajante y me puedo concentrar con mayor facilidad.Mi animal preferido es el gato, porque son atractivos físicamente además presentar un carácter libre y despreocupado.</p> 
+ <h1>Daphne Adriana Huapaya Montes</h1>
+        <p>Tengo 18 años , soy estudiante de ingeniería civil de la Universidad de Ingeniería y Tecnología. Mis pasatiempos son leer , dibujar y pintar, pero suelo hacer estos al aire libre porque es mucho mas relajante y me puedo concentrar con mayor facilidad.Mi animal preferido es el gato, porque son atractivos físicamente además presentar un carácter libre y despreocupado.</p> 
     <img src="https://i.pinimg.com/originals/19/2a/6d/192a6d3ca3f0271a3504fb7e2bbd207d.jpg" style="width:900px;height:500px;">
-  </div>
-  <div class="row">
-    <div class="col-sm-4">
-      <p>Me encantan las innovaciones </h3>
+
+<h2>Me encantan las innovaciones </h2>
       <p>También en mi ratos libres suelo investigar sobre innovaciones es cualquier ámbito y contexto. Sobretodo me encanta ver videos que explican sobre ello. Aquí les comparto algunos canales que comparten historias y hechos innovadores.</p>
       <p><style>
 table, th, td {
@@ -37,7 +31,7 @@ th, td {
   <tr>
     <td>DW Español</td>
     <td>Deutsche Welle es un servicio de radiodifusión internacional de Alemania,tiene un canal de youtube doblado al español donde comparte noticias y documentales relacionados con tecnología y innovación.
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Deutsche_Welle_Logo.svg" alt="W3Schools.com" style="width:100px;height:140px;"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Deutsche_Welle_Logo.svg" alt="W3Schools.com" style="width:140px;height:90px;"
 >
     </td>
     <td><a href="https://www.youtube.com/user/DeutscheWelleEspanol" target="_blank">Aqui esta el link.</a> </td>
@@ -62,12 +56,9 @@ th, td {
 </table>
 
 <p>Derechos de imagen reservados a sus respectivos autores</p>
- 
- 
-      
-    <p>
-    <div class="col-sm-4">
-      <h3>Mis libros preferidos</h3>
+
+
+<h2>Mis libros preferidos</h2>
       <p>Aunque mis gustos literarios son ampliamente abiertos suelo preferir los de género de terror.Aquí les comparto las obras de este genéro que recomiendo leer.</p>
       <p>1.Edgar Allan Poe:cuentos completos</p>
       <p><img src="https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201601/13/00106523181839____1__640x640.jpg" alt="HTML5 Icon" style="width:128px;height:128px;"> </p>
@@ -80,9 +71,8 @@ th, td {
       <p><img src="https://imagessl3.casadellibro.com/a/l/t0/93/9788497593793.jpg" alt="HTML5 Icon" style="width:100px;height:128px;"></p>
       <p>¿Quién o qué mutila y mata a los niños de un pequeño pueblo norteamericano? ¿Por qué llega cíclicamente el horror a Derry en forma de un payaso siniestro que va sembrando la destrucción a su paso? Esto es lo que se proponen averiguar los protagonistas de esta novela. Tras veintisiete años de tranquilidad y lejanía una antigua promesa infantil les hace volver al lugar en el que vivieron su infancia y juventud como una terrible pesadilla. Regresan a Derry para enfrentarse con su pasado y enterrar definitivamente la amenaza que los amargó durante su niñez. Saben que pueden morir, pero son conscientes de que no conocerán la paz hasta que aquella cosa sea destruida para siempre. It es una de las novelas más ambiciosas de Stephen King, donde ha logrado perfeccionar de un modo muy personal las claves del género de terror.¿Lograran vencerlo?¿Qué es “eso”?</p>
       
-    </div>
-    <div class="col-sm-4">
-      <h3>Música</h3>        
+
+<h2>Música</h2>        
       <p>Al igual que los libros soy muy abierta en cuanto gustos musicales.Pero en este caso resaltare la música clásica.</p>
       <p>
       <style>
@@ -122,9 +112,7 @@ th, td {
     <td><a href="https://www.youtube.com/watch?v=COGcCBJAC6I&t=385s" target="_blank">Aqui esta el link.</a></td>
   </tr>
 </table>
-    
-  </div>
 
+<body style="background-color:LightGray;">
 </body>
-
 </html>
