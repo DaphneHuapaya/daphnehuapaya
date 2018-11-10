@@ -18,7 +18,7 @@
   </div>
   <div class="row">
     <div class="col-sm-4">
-      <h3>Me encantan las innovaciones </h3>
+      <p>Me encantan las innovaciones </h3>
       <p>También en mi ratos libres suelo investigar sobre innovaciones es cualquier ámbito y contexto. Sobretodo me encanta ver videos que explican sobre ello. Aquí les comparto algunos canales que comparten historias y hechos innovadores.</p>
       <p><style>
 table, th, td {
@@ -71,7 +71,7 @@ th, td {
  
  
       
-    </div>
+    <p>
     <div class="col-sm-4">
       <h3>Mis libros preferidos</h3>
       <p>Aunque mis gustos literarios son ampliamente abiertos suelo preferir los de género de terror.Aquí les comparto las obras de este genéro que recomiendo leer.</p>
