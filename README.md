@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -17,7 +17,7 @@ th, td {
     padding: 15px;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Canales de Youtube</h2>
@@ -84,7 +84,7 @@ th, td {
     padding: 15px;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Lista de música clásica</h2>
@@ -115,4 +115,4 @@ th, td {
 
 <body style="background-color:LightGray;">
 </body>
-</html>
+
